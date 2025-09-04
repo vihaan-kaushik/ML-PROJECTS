@@ -56,9 +56,11 @@ Run all cells to train and test the recommendation system.
 
 📊 Dataset
 
-The system uses a movie metadata dataset (e.g., TMDB / IMDB dataset).
+The system uses a movie metadata dataset.
 
 Dataset includes movie titles, genres, descriptions, etc.
+
+https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
 
 
 🎯 Example Usage
